@@ -16,7 +16,7 @@
     <body>
     <div class="content">
         <div id="app">
-            <home-page></home-page>
+            <App></App>
         </div>
     </div>   
     </body>
